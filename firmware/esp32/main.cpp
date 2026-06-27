@@ -13,7 +13,7 @@ bool debounceState = true;
 const char* ssid = "YOUR SSID";
 const char* password = "YOUR PASSWORD";
 
-const char* raspberryPi = "192.168.1.3";
+const char* raspberryPi = "YOUR IP";
 uint16_t portNumber = 5000;
 
 WiFiClient client;
